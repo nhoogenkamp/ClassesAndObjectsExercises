@@ -9,5 +9,10 @@ package classesandobjectsexercises;
  * @author Capitania
  */
 public class Car {
+    String make;
+    String model;
+    int numWheels;
+    String colour;
+        
     
 }
